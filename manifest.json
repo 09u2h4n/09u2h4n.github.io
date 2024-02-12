@@ -1,6 +1,6 @@
 {
-    "name": "github_pages",
-    "short_name": "github_pages",
+    "name": "understand_pyodide_env",
+    "short_name": "understand_pyodide_env",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
