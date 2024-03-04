@@ -1,6 +1,6 @@
 {
-    "name": "understand_pyodide_env",
-    "short_name": "understand_pyodide_env",
+    "name": "basic_pyodide_terminal",
+    "short_name": "basic_pyodide_terminal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
